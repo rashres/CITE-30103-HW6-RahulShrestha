@@ -47,3 +47,18 @@ To run:
 Enter any number for the radius to see the calculated output
 
 ------------------------------------------------------------
+
+Q.8) 
+
+To compile:
+gcc question8.c -o question8
+
+To run:
+./question8
+
+Prints the global and local variable declared
+
+------------------------------------------------------------
+
+Q.9
+
