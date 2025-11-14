@@ -1,0 +1,30 @@
+Question 2 - How a C Program Moves From Source Code to Execution
+
+This is a simple explanation of how a C program goes from the code we write to actually running on the computer. 
+
+1. Preprocessing  
+   - The preprocessor handles things like #include and #define before compilation starts.  
+   - It basically expands header files and replaces macros.  
+   - Possible error: If a header file is missing the preprocessor gives an error like "No such file or directory".
+
+2. Compilation  
+   - The compiler takes the preprocessed code and translates it into assembly code.  
+   - This step also checks the syntax of our C program.  
+   - Possible error: A typo like writing prinf instead of printf causes an "undefined function" error.
+
+3. Assembly  
+   - The assembler converts the assembly code into machine code (object file with .o extension).  
+   - This is a lower-level translation step.  
+   - Possible error: "invalid instruction" if the compiler produced something the assembler cannot handle.
+
+4. Linking  
+   - The linker connects our object file with external libraries (like the standard library that contains printf).  
+   - It creates the final executable file.  
+   - Possible error: "Undefined reference to printf" happens if stdio is missing or linking fails.
+
+5. Loading  
+   - The loader puts the program into memory and prepares it for execution when we run it.  
+   - The operating system handles this step.  
+   - Possible error: If the executable is corrupted or missing permissions we may get "cannot execute" or "permission denied".
+
+Overall, these five stages work together to turn our C source code into a running program.
