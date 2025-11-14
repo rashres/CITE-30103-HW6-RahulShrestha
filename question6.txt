@@ -1,0 +1,23 @@
+Question 6 - Identifier Naming Errors
+
+The following identifiers have naming mistakes:
+
+1) int 1value = 10;
+   - Error: Identifiers cannot start with a number
+   - Corrected: int value1 or int value = 10;
+
+2) float avg-rate = 12.5;
+   - Error: The hyphen (-) is not allowed in variable names because it is counted as a minus operator.
+   - Corrected: float avg_rate or float avgrate = 12.5;
+
+3) char Class = 'A';
+   - Error: Not illegal but using a name that starts with a capital letter looks like a type name and should be avoided as it is not a good programming practice. 
+     Variable names should not shadow common words or types.
+   - Corrected: char class_grade = 'A';
+
+Summary of Rules Violated:
+- Identifiers cannot start with numbers.
+- Identifiers cannot contain symbols like hyphens.
+- Identifiers should not use confusing or misleading names.
+
+
