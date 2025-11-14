@@ -73,3 +73,18 @@ a = 7 and b = 2 is declared, run and the implicit and explicit casting result wi
 ------------------------------------------------------------
 
 Q. 10)
+
+
+To compile:
+gcc question10.c -question10
+
+To run:
+./question10
+
+prints the size in bytes for different datatypes
+
+------------------------------------------------------------
+
+Q. 11)
+
+
