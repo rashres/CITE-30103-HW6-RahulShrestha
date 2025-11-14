@@ -88,3 +88,16 @@ prints the size in bytes for different datatypes
 Q. 11)
 
 
+To compile:
+gcc question11.c -o question11
+
+To run:
+./question11
+
+prints results for +,-,*,divison and remainder for two integers
+
+------------------------------------------------------------
+
+Q. 12)
+
+
