@@ -1,0 +1,5 @@
+In this program, I created one global variable and one local variable to show how scope works in C. 
+The global variable is declared outside the main function, so it can be accessed anywhere in the program. 
+The local variable is declared inside main(), so it only exists while main is running.
+
+When the program prints both values, it shows that global variables have a wider scope and local variables aare limited to the function where they are created.
