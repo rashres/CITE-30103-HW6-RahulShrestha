@@ -60,5 +60,16 @@ Prints the global and local variable declared
 
 ------------------------------------------------------------
 
-Q.9
+Q.9)
 
+To compile: 
+gcc question9.c -o question9
+
+To run:
+./question9
+
+a = 7 and b = 2 is declared, run and the implicit and explicit casting result will be printed.
+
+------------------------------------------------------------
+
+Q. 10)
