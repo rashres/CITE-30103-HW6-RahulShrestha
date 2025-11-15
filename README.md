@@ -98,6 +98,18 @@ prints results for +,-,*,divison and remainder for two integers
 
 ------------------------------------------------------------
 
-Q. 12)
+Q. 13)
+
+To compile:
+gcc question13.c -o question13
+
+To run:
+./question13
+
+Example Output:
+Enter a number: 18
+18 is divisible by 2 and 3 but NOT by 7.
+
+------------------------------------------------------------
 
 
