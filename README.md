@@ -169,4 +169,20 @@ B
 
 ------------------------------------------------------------
 
+Q.18)
+
+To compile:
+gcc question18.c -o question18
+
+To run:
+./question18
+
+Example Output:
+Enter first number: 10
+Enter an operator (+, -, *, /): /
+Enter second number: 2
+Result: 5.00
+
+------------------------------------------------------------
+
 
