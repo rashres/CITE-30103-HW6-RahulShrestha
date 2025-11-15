@@ -212,4 +212,14 @@ To run:
 
 ------------------------------------------------------------
 
+Q.21)
 
+This program prints a centered pyramid of stars based on the number of rows the user enters. It uses nested for loops to print spaces and stars in the correct pattern.
+
+To compile:
+gcc question21.c -o question21
+
+To run:
+./question21
+
+------------------------------------------------------------
