@@ -236,3 +236,29 @@ To run:
 
 ------------------------------------------------------------
 
+Q.23)
+
+This program reads integers in a do-while loop until the user enters 0. 
+It counts how many values are positive, negative, even, and odd (excluding 0).
+
+To compile:
+gcc question23.c -o question23
+
+To run:
+./question23
+
+------------------------------------------------------------
+
+Q.24)
+
+This program prints numbers from 1 to 50 while skipping multiples of 5 using continue.
+It also stops early when the value 40 is reached using break and displays how many numbers were printed.
+
+To compile:
+gcc question24.c -o question24
+
+To run:
+./question24
+
+------------------------------------------------------------
+
