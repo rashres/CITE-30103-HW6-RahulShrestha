@@ -112,4 +112,29 @@ Enter a number: 18
 
 ------------------------------------------------------------
 
+Q. 14)
 
+To compile:
+gcc question14.c -o question14
+
+To run:
+./question14
+
+Example Output:
+Enter a number: -3
+Negative
+
+------------------------------------------------------------
+
+Q. 15)
+
+
+To compile:
+gcc question15.c -o question15
+
+To run:
+./question15
+
+Example Output:
+Enter 5 subject marks: 45 67 88 40 59
+PASS
