@@ -223,3 +223,16 @@ To run:
 ./question21
 
 ------------------------------------------------------------
+
+Q.22)
+
+This program reads a positive integer and reverses its digits using a while loop. It prints both the original number and the reversed number.
+
+To compile:
+gcc question22.c -o question22
+
+To run:
+./question22
+
+------------------------------------------------------------
+
