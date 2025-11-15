@@ -262,3 +262,15 @@ To run:
 
 ------------------------------------------------------------
 
+Q.25)
+
+This program asks the user for a range (L to R) and prints multiplication
+tables for all numbers in that range. Each table goes from ×1 to ×10 and
+a blank line separates each table.
+
+To compile:
+gcc question25.c -o question25
+
+To run:
+./question25
+
