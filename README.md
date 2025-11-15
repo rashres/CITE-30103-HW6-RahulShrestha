@@ -198,4 +198,18 @@ To run:
 
 ------------------------------------------------------------
 
+Q.20)
+
+This program keeps asking the user to enter integers using a do-while loop.
+It stops only when the user enters 0, and then prints how many numbers were
+entered in total (not counting the 0).
+
+To compile:
+gcc question20.c -o question20
+
+To run:
+./question20
+
+------------------------------------------------------------
+
 
