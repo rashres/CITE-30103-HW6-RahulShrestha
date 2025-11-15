@@ -186,3 +186,16 @@ Result: 5.00
 ------------------------------------------------------------
 
 
+Q. 19)
+
+This program asks the user for a number n and uses a while loop to compute the sum from 1 to n. The final sum is printed on the screen.
+
+To compile:
+gcc question19.c -o question19
+
+To run:
+./question19
+
+------------------------------------------------------------
+
+
