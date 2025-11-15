@@ -138,3 +138,21 @@ To run:
 Example Output:
 Enter 5 subject marks: 45 67 88 40 59
 PASS
+
+------------------------------------------------------------
+
+Q. 16)
+
+To compile:
+gcc question16.c -o question16
+
+To run:
+./question16
+
+Example Output:
+Enter a number: 0
+Zero
+
+------------------------------------------------------------
+
+
